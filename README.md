@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/codehepta/Another%20space%20game/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/codehepta/Another%20space%20game/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
